@@ -25,9 +25,10 @@ Thus the implementation is not directly provided here due to possible research a
 
 This project demonstrates proof-of-concept implementation of following modules:
 
-*Basics from AIMA, 4th edition*
+*Basics from AIMA, 4th edition* and <a href="https://www.cs.cmu.edu/~fp/courses/atp/">ATP Automated Theore Proving (ATP) </a>
+
 - Simple mathematical theorem prover represented in symbols 
-<a href="https://github.com/sushmaakoju/automated-theorem-proving/tree/1ba73b8b13168f3d2a12ead31853861d29febe00">Automated Theorem Prover</a>
+<a href="https://github.com/sushmaakoju/automated-theorem-prover/">Automated Theorem Prover</a>
 - Theorem prover for first of order logic statements from brute force parser for the grammar. <a href="https://github.com/sushmaakoju/first-order-logic/tree/86cde01c6d03fa39e6cdd4b50c26339211e19adf"> First Order Logic</a>
 - First order logic conversion using brute force approach. <a href="https://github.com/sushmaakoju/first-order-logic/tree/86cde01c6d03fa39e6cdd4b50c26339211e19adf"> First Order Logic</a></strike>
 - <strike>Natural Language Inference Engine using a Language Model. <a href="https://github.com/sushmaakoju/natural-language-inference/tree/1d5445a27b401c772d78c0ca6113b8d3783f0780"> NLI</a> </strike>
