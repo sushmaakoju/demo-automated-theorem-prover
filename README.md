@@ -25,7 +25,7 @@ Thus the implementation is not directly provided here due to possible research a
 
 This project demonstrates proof-of-concept implementation of following modules:
 
-*Basics from AIMA, 4th edition* and <a href="https://www.cs.cmu.edu/~fp/courses/atp/"> Automated Theore Proving (ATP) </a>
+*Basics from AIMA, 4th edition*, <a href="https://isabelle.in.tum.de/coursematerial/PSV2009-1/"> TP Technische Universität München </a>, <a href="https://www.cs.cmu.edu/~fp/courses/atp/"> Automated Theore Proving (ATP) </a>
 
 - Simple mathematical theorem prover represented in symbols 
 <a href="https://github.com/sushmaakoju/automated-theorem-prover/">Automated Theorem Prover</a>
@@ -55,5 +55,5 @@ Please refer: <a href="https://www.freecodecamp.org/news/how-to-build-a-web-appl
 2. AIMA, 4th edition Pseudocode for First Order Logic <a href="https://github.com/aimacode/aima-pseudocode"> AIMA </a>
 3. Automated Theorem Proving <a href="https://www.cs.cmu.edu/~fp/courses/atp/"> ATP </a>
 4. Theorem Proving <a href="https://isabelle.in.tum.de/coursematerial/PSV2009-1/"> TP </a>
-5. The Lean <a href="https://leanprover.github.io/theorem_proving_in_lean/index.html">Lean Theorem Prover </a>
+5. Interactive Theorem Prover <a href="https://ps.informatik.uni-tuebingen.de/teaching/ws18/itp/">ITP Tuebingen </a>
 
