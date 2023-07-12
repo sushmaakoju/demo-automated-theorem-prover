@@ -8,9 +8,8 @@ It was an exploratory study to learn about Theorem Provers and Turing Completene
 #### This project is for demonstrating the concepts from Big Data Arhcitecture class: Google Cloud
 
 #### The website and presentation:
-https://automatedtheoremprover.uw.r.appspot.com/)
-[Automated Theorem Prover examples: https://theorem-prover-4182022.uc.r.appspot.com/](https://automatedtheoremprover.uw.r.appspot.com/
-)]
+
+[Automated Theorem Prover examples: https://theorem-prover-4182022.uc.r.appspot.com/](https://automatedtheoremprover.uw.r.appspot.com/)
 
 [Theorem Prover Presentation](https://github.com/sushmaakoju/demo-ATLS5214/blob/main/Theorem%20Prover.pdf)
 
