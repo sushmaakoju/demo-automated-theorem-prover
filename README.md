@@ -55,6 +55,6 @@ Please refer: <a href="https://www.freecodecamp.org/news/how-to-build-a-web-appl
 1. AIMA, 4th edition <a href="http://aima.cs.berkeley.edu/"> AIMA </a>
 2. AIMA, 4th edition Pseudocode for First Order Logic <a href="https://github.com/aimacode/aima-pseudocode"> AIMA </a>
 3. Automated Theorem Proving <a href="https://www.cs.cmu.edu/~fp/courses/atp/"> ATP </a>
-4. Theorem Proving <a href="https://isabelle.in.tum.de/coursematerial/PSV2009-1/"> TP </a>
+4. Theorem Proving <a href="https://isabelle.in.tum.de/coursematerial/PSV2009-1/"> TP Technische Universität München </a>
 5. Interactive Theorem Prover <a href="https://ps.informatik.uni-tuebingen.de/teaching/ws18/itp/">ITP Tuebingen </a>
 
