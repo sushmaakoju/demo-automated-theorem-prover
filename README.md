@@ -11,7 +11,7 @@ It was an exploratory study to learn about Theorem Provers and Turing Completene
 
 [Automated Theorem Prover examples: https://automatedtheoremprover.uw.r.appspot.com/](https://automatedtheoremprover.uw.r.appspot.com/)
 
-[ Theorem Prover Presentation](https://github.com/sushmaakoju/demo-ATLS5214/blob/main/Theorem%20Prover.pdf)
+[ Theorem Prover Presentation](https://github.com/sushmaakoju/demo-automated-theorem-prover/blob/main/Theorem%20Prover.pdf)
 
 
 #### About the project:
