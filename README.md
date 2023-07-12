@@ -25,7 +25,7 @@ Thus the implementation is not directly provided here due to possible research a
 
 This project demonstrates proof-of-concept implementation of following modules:
 
-*Basics from AIMA, 4th edition* and <a href="https://www.cs.cmu.edu/~fp/courses/atp/">ATP Automated Theore Proving (ATP) </a>
+*Basics from AIMA, 4th edition* and <a href="https://www.cs.cmu.edu/~fp/courses/atp/"> Automated Theore Proving (ATP) </a>
 
 - Simple mathematical theorem prover represented in symbols 
 <a href="https://github.com/sushmaakoju/automated-theorem-prover/">Automated Theorem Prover</a>
