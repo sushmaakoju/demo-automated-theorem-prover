@@ -1,5 +1,6 @@
 # Demo : Automated Theorem Prover
-It was an exploratory study to learn about Theorem Provers and Turing Completeness.
+It was an exploratory **self-study** to learn about Theorem Provers and Turing Completeness.
+
 This was part of the Big Data Architecture course during my Masters in Data Science at University of Colorado Boulder, Spring 2022.
 The Big Data Architecture course only focusses on deployment, cloud environments and developing apis along with industry best practices.
 
