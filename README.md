@@ -18,7 +18,7 @@ The Big Data Architecture course only focusses on deployment, cloud environments
 #### Modules:
 1. Includes Microsoft Z3 Solver and Prover
 2. Includes Basic Theorem Prover (Entscheidungsproblem)
-3. Work-in-progress: Logical Neural Networks - Solving Natural Language + First Order Logic over Logical Neural Networks (LNNs)
+3. Work-in-progress: Logical Neural Networks (LNNs) - Solving Natural Language + First Order Logic over Logical Neural Networks (LNNs)
 
 #### About the project:
 
@@ -48,14 +48,17 @@ This project demonstrates proof-of-concept implementation of following modules:
 - General Unification
 
 ### Z3 Prover (Microsoft Research)
+
 - [Z3 Prover Examples Colab Notebook](https://github.com/sushmaakoju/demo-ATLS5214/blob/main/z3_prover_examples.ipynb)
 
 *Pending approval from researcher for replication*
-- This is a theorem prover using first order logic statements from natural language corpus.
+- This is a theorem prover using first order logic statements from natural language corpus using Recurrent Neural Networks.
 
 ### Logical Neural Networks (LNNs)
-- Adapting an example using LNN Python API : <a href="https://github.com/sushmaakoju/LNN">Reasoning & First Order Logic in LNNs </a>
 
+- Adapting an example using LNN Python API : <a href="https://github.com/sushmaakoju/LNN">Reasoning & First Order Logic in LNNs </a>
+- with LNN Module, Predicates, Propositions
+  
 ### Code of Conduct and Usage Restrictions:
 
 Due to research content, this repository implicitly expects to contact author for permissions and thus can only be cited as a reference and replication upon permission from the author of this reposiroty. Additionally, also requires researcher approval for commercial use which is the main reason this repository does not have an Open License.
